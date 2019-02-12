@@ -7,6 +7,7 @@ public class Persona
 	private int edad;
 	
 	public Persona() {
+		//Hola mundo :)
 		super();
 		dni = "";
 		nombre = "";
