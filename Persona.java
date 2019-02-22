@@ -57,5 +57,5 @@ public class Persona
 	public String toString() {
 		return "DNI:" + dni + ", nombre: " + nombre + ", edad: " + edad	;
 	}
-/*comentario para github*/
+/*comentario de prueba para github*/
 }
