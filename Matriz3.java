@@ -5,7 +5,7 @@ public class Matriz3
 	private int celdas[][];
 	
 	public Matriz3() {
-		//Esto es mucho mejor que por comandos
+		//Esto es mucho mejor que por comandos 
 		super();
 		celdas = new int[3][3];
 		rellenaCero();
