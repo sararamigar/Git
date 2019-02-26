@@ -59,4 +59,5 @@ public class Persona
 		return "DNI:" + dni + ", nombre: " + nombre + ", edad: " + edad	;
 	}
 /*comentario de prueba para github*/
+/*comentario hecho por comandos*/
 }
