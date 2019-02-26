@@ -7,6 +7,7 @@ public class Persona
 	private int edad;
 	
 	public Persona() {
+		//Este es un hecho en nano
 		//Hola mundo :)
 		super();
 		dni = "";
